@@ -1,0 +1,11 @@
+# данные (лицензия CODEBRIM)
+*.zip
+codebrim_raw/
+codebrim_compact/
+datasets/
+# веса и логи обучения
+runs/
+*.pt
+# служебное
+.ipynb_checkpoints/
+__pycache__/
